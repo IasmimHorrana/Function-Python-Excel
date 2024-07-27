@@ -1,4 +1,4 @@
-produto;categoria;preco;entregue
+ï»¿produto;categoria;preco;entregue
 Teclado Mecanico;Perifericos;120.50;TRUE
 Mouse optico;Perifericos;35.75;FALSE
 Monitor LED;Monitores;250.00;TRUE
@@ -18,4 +18,4 @@ Monitor Curvo;Monitores;400.00;FALSE
 Pendrive 64GB;Armazenamento;25.00;TRUE
 Roteador Gigabit;Redes;110.00;TRUE
 Adaptador Bluetooth;Acessorios;30.00;TRUE
-Cadeira Ergonomica;Moveis e Escritï¿½ï;500.00;FALSE
+Cadeira Ergonomica;Moveis e Escritorio;500.00;FALSE
