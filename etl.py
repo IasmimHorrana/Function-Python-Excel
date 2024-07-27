@@ -24,14 +24,6 @@ def calcular_vendas_categoria(lista: list[dict]) -> dict:
         vendas_por_categoria[categoria] += total_venda
     return dict(vendas_por_categoria)  # Converte defaultdict para dict
 
-# Leitura dos dados do CSV
-vendas_itens = ler_csv(path_arquivo)
 
-# Cálculo do total de vendas por categoria
-vendas_totais = calcular_vendas_categoria(vendas_itens)
-
-print("\nSoma dos Valores por Categoria:")
-for categoria, total in vendas_totais.items():
-    print(f"{categoria}: {total:.2f}")
 
 
